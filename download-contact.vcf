@@ -1,9 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-N:M;Aflal;;;
-FN:Aflal
-ORG:
-TITLE:
+N:Aflal;M;;;
+FN:M Aflal
+ORG:Techcodz
+TITLE:Web Developer
 TEL;TYPE=CELL:+94775571573
-EMAIL;TYPE=mohamedaflal154@gmail.com
+EMAIL;TYPE=INTERNET:mohamedaflal154@gmail.com
+ADR;TYPE=HOME:;;539, Ladies Market Road, Eravur 2C;Batticaloa;;;Sri Lanka
+URL:https://aflalmohamed.github.io/MyPortfolio/
 END:VCARD
