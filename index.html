@@ -299,7 +299,13 @@
                class="inline-block px-8 py-3 bg-red-600 text-white rounded-full shadow hover:bg-red-700 transition">
                 <i class="fas fa-user-plus mr-2"></i> Add to Contacts
             </a>
-            <p class="text-xs text-gray-400 mt-4">© 2025 Powered by M Aflal</p>
+            <p class="text-xs text-gray-400 mt-4">
+  © <span id="year"></span> Powered by M Aflal
+</p>
+
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
         </footer>
 
     </div>
